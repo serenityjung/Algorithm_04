@@ -15,6 +15,8 @@
 ### 5. Images and corresponding probability that predicted Wrong
 <img width="830" alt="결과1" src="https://user-images.githubusercontent.com/94210833/173583932-c0d75944-70e3-4e02-b777-ee16ebed15c8.png">
 
+
+
 ## model 2
 ### 1. Model
 <img width="551" alt="2-1" src="https://user-images.githubusercontent.com/94210833/173589862-8cbe2c6f-1939-472f-bc23-37d8c3051c22.png">
@@ -30,6 +32,8 @@
 
 ### 5. Images and corresponding probability that predicted Wrong
 <img width="825" alt="결과2" src="https://user-images.githubusercontent.com/94210833/173583946-e017f514-956d-456c-a7c5-3833b839ef5f.png">
+
+
 
 ## model 3
 ### 1. Model
