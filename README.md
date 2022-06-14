@@ -1,4 +1,6 @@
-# Result Quick Vieww
+# Result Quick View
+
+
 ## model 1
 ### 1. Model
 <img width="625" alt="1-1" src="https://user-images.githubusercontent.com/94210833/173587332-4a2e1744-b758-432b-bd63-a31f5b0eeec2.png">
