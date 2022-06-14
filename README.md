@@ -17,9 +17,17 @@
 
 ## model 2
 ### 1. Model
+<img width="551" alt="2-1" src="https://user-images.githubusercontent.com/94210833/173589862-8cbe2c6f-1939-472f-bc23-37d8c3051c22.png">
+
 ### 2. Training with Training loss
+<img width="536" alt="2-2" src="https://user-images.githubusercontent.com/94210833/173589849-06fbe39f-c040-4362-b629-6bec278779c6.png">
+
 ### 3. Test Accuracy
+<img width="390" alt="2-3" src="https://user-images.githubusercontent.com/94210833/173589879-30e901e4-b2e2-4655-aa8c-ad5be14bdf79.png">
+
 ### 4. Images and corresponding probability that predicted Right
+<img width="488" alt="2-4" src="https://user-images.githubusercontent.com/94210833/173589868-afb099cb-1942-47eb-aa3b-b5fc71cd830c.png">
+
 ### 5. Images and corresponding probability that predicted Wrong
 <img width="825" alt="결과2" src="https://user-images.githubusercontent.com/94210833/173583946-e017f514-956d-456c-a7c5-3833b839ef5f.png">
 
